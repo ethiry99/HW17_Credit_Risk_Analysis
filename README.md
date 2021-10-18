@@ -5,16 +5,29 @@
 
 ## Results
 <pre>
- Algorithm Name                     | Balanced  | Precision | Recall |
+        Algorithm Name              | 
+        Balanced  | Precision | Recall |
                                     | Accuracy  |           |        |
 |-----------------------------------|-----------|-----------|--------|
-<span>&#8226;</span> RandomOverSampler                 |   57.3%   |     99%   |   71%  |
-<span>&#8226;</span> SMOTE                             |   64.8%   |     99%   |   74%  |
-<span>&#8226;</span> ClusterCentroids                  |   53.8%   |     99%   |   53%  |
-<span>&#8226;</span> SMOTEENN                          |   65.6%   |     99%   |   58%  |
-<span>&#8226;</span> BalancedRandomForestClassifier    |   81.1%   |     99%   |   89%  |
-<span>&#8226;</span> EasyEnsembleClassifier            |   92.4%   |     99%   |   94%  |</pre>
+<span>&#8226;</span> RandomOverSampler                 |   64.9%   |     99%   |   57%  |
+<span>&#8226;</span> SMOTE                             |   65.8%   |     99%   |   68%  |
+<span>&#8226;</span> ClusterCentroids                  |   54.4%   |     99%   |   40%  |
+<span>&#8226;</span> SMOTEENN                          |   66.2%   |     99%   |   54%  |
+<span>&#8226;</span> BalancedRandomForestClassifier    |   78.5%   |     99%   |   90%  |
+<span>&#8226;</span> EasyEnsembleClassifier            |   91.3%   |     99%   |   95%  |</pre>
 
-* #### RandomOverSampler
-
+*  RandomOverSampler
+![]()
+*  SMOTE
+ ![]() 
+*  ClusterCentroids
+![]()
+*  Smoteenn
+![]()
+*  BalancedRandomForestClassifier
+![]()
+*  EasyEnsembleClassifier
+![]()
+## Summary  
+  
 
